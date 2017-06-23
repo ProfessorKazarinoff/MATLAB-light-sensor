@@ -1,5 +1,5 @@
 int photocellPin = 0;     // the cell and 10K pulldown are connected to a0
-int photocellReading;     // the analog reading from the sensor divider
+int photocellReading;     // the analog reading from the sensor voltage divider
 int LEDpin = 11;          // connect Red LED to pin 11 (PWM pin)
 int LEDbrightness;        // 
 void setup(void) {
