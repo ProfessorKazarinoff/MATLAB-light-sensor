@@ -9,7 +9,11 @@ display a Light vs Time plot.
 ![Alt Name](/doc/light_sensor_hardware.png)
 
 ## Results
+![Alt Name](/doc/light_sensor_results.png)
 
 ## Future Work
 Other groups can add more LED lights to enhance the accuracy of data
 observation and collection.
+
+## License
+
