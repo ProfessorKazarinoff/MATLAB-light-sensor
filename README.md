@@ -6,6 +6,7 @@ Our group will collect measurements from our developed light sensor to output an
 display a Light vs Time plot.
 
 ## Hardware Setup
+![Alt Name](/doc/light_sensor_hardware.png)
 
 ## Results
 
