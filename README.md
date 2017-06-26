@@ -16,4 +16,4 @@ Other groups can add more LED lights to enhance the accuracy of data
 observation and collection.
 
 ## License
-
+GNU GENERAL PUBLIC LICENSE.
