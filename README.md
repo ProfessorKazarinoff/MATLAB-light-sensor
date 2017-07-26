@@ -9,10 +9,10 @@ display a Light vs Time plot.
 ![Alt Name](/doc/light_sensor_hardware.png)
 
 ## Arduino Code
-Upload the light_sensor.ino sketch to the Arduino using the Arduino IDE
+Upload the [light_sensor.ino](light_sensor.ino) sketch to the Arduino using the Arduino IDE
 
 ## MATLAB Code
-Save the light_sensor.m file to the current file path in MATLAB.
+Save the [light_sensor.m](light_sensor.m) file to the current file path in MATLAB.
 
 ## Results
 ![Alt Name](/doc/light_sensor_results.png)
