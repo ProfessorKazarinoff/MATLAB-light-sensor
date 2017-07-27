@@ -10,7 +10,7 @@ display a Light vs Time plot.
 ### Bill of Materials
 |component|vendor|
 |---|---|
-|Arduino|Sparkfun Redboard|
+|Arduino|[SparkFun RedBoard - Programmed with Arduino](https://www.sparkfun.com/products/13975)|
 |Photo Sensor|Sparkfun Mini Photocell|
 |330 Ω resistor| |
 |10 kΩ resistor| |
