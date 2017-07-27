@@ -16,7 +16,7 @@ display a Light vs Time plot.
 |10 kΩ resistor| |
 |Red LED| |
 |Breadboard| |
-|Jumper wires| |
+|Jumper wires|[Jumper Wires Premium 6" M/M Pack of 10](https://www.sparkfun.com/products/8431 )|
 |Mini-B USB cable| |
 
 ![Alt Name](/doc/light_sensor_hardware.png)
