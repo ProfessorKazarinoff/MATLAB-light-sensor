@@ -23,7 +23,7 @@ display a Light vs Time plot.
 ![Alt Name](/doc/light_sensor_hardware.png)
 
 ## Arduino Code
-The [light_sensor.ino](light_sensor.ino) sketch was uploaded on the Arduino using the Arduino IDE
+The ['light_sensor.ino'](light_sensor.ino) sketch was uploaded on the Arduino using the Arduino IDE
 
 ## MATLAB Code
 The [light_sensor.m](light_sensor.m) script was run in MATLAB.
