@@ -12,7 +12,7 @@ display a Light vs Time plot.
 |---|---|
 |Arduino|Sparkfun Redboard|
 |Photo Sensor|Sparkfun Mini Photocell|
-|330 <p>&03A9;</p> resistor| |
+|330 ohm resistor| |
 |10 kohm resistor| |
 |Red LED| |
 |Breadboard| |
