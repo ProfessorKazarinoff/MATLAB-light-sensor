@@ -6,8 +6,20 @@ Our group will collect measurements from our developed light sensor to output an
 display a Light vs Time plot.
 
 ## Hardware Setup
-![Alt Name](/doc/light_sensor_hardware.png)
+
 ### Bill of Materials
+|component|vendor|
+|---|---|
+|Arduino|Sparkfun Redboard|
+|Photo Sensor|Sparkfun Mini Photocell|
+|330 \ohm resistor| |
+|10 k\ohm resistor| |
+|Red LED| |
+|Breadboard| |
+|Jumper wires| |
+|Mini-B USB cable| |
+
+![Alt Name](/doc/light_sensor_hardware.png)
 
 ## Arduino Code
 The [light_sensor.ino](light_sensor.ino) sketch was uploaded on the Arduino using the Arduino IDE
