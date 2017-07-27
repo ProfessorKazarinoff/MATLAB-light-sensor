@@ -19,6 +19,7 @@ display a Light vs Time plot.
 |Jumper wires|[Jumper Wires Premium 6" M/M Pack of 10](https://www.sparkfun.com/products/8431 )|
 |Mini-B USB cable|[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)|
 
+### Connected Hardware
 ![Alt Name](/doc/light_sensor_hardware.png)
 
 ## Arduino Code
