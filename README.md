@@ -7,6 +7,7 @@ display a Light vs Time plot.
 
 ## Hardware Setup
 ![Alt Name](/doc/light_sensor_hardware.png)
+### Bill of Materials
 
 ## Arduino Code
 The [light_sensor.ino](light_sensor.ino) sketch was uploaded on the Arduino using the Arduino IDE
