@@ -18,6 +18,7 @@ display a Light vs Time plot.
 |Breadboard|[Breadboard - Self-Adhesive (White)](https://www.sparkfun.com/products/12002)|
 |Jumper wires|[Jumper Wires Premium 6" M/M Pack of 10](https://www.sparkfun.com/products/8431 )|
 |Mini-B USB cable|[SparkFun USB Mini-B Cable - 6 Foot](https://www.sparkfun.com/products/11301)|
+
 ### Fritzing Diagram
 ![Alt Name](/doc/fritzing_light_sensor.png)
 ### Connected Hardware
