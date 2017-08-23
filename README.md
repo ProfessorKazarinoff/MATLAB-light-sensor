@@ -2,8 +2,8 @@
 A student project for ENGR114 at Portland Community College. Uses MATLAB to read a light sensor connected to an Arudino over serial.
 
 ## Problem Statement
-Our group will collect measurements from our developed light sensor to output and
-display a Light vs Time plot.
+Our group will collect measurements from our developed light sensor connected to an Arduino and output a plot of 
+Light Level vs Time using MATLAB.
 
 ## Hardware Setup
 
