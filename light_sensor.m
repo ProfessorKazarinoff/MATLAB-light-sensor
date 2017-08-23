@@ -6,7 +6,7 @@ clear
 close all
 clc
 delete(instrfindall);
-a = serial('COM4'); % connect to the arduino in order to read information
+a = serial('COM4'); % connect to the arduino in order to read information. Check the Port to ensure the arduino is connected.
 fopen(a);
 t = input('Enter the time, in minutes, that you would like to record the light levels: ');
 figure
