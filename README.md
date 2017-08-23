@@ -28,7 +28,7 @@ Light Level vs Time using MATLAB.
 The [light_sensor.ino](light_sensor.ino) sketch was uploaded on the Arduino using the Arduino IDE
 
 ## MATLAB Code
-The [light_sensor.m](light_sensor.m) script was run in MATLAB.
+The [light_sensor.m](light_sensor.m) script was run in MATLAB. The serial Port had to be the correct one in order for the MATLAB script to run. This was usually `COM4` and must be checked in the Windows Device Manager.
 
 ## Results
 ![Alt Name](/doc/light_sensor_results.png)
