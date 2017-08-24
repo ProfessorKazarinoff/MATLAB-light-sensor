@@ -29,4 +29,8 @@ ax.XLim = datenum([t-seconds(15) t]); % Update axes
 datetick('x','keeplimits') % update tick marks
 drawnow update; % plot the current voltage vs time values
 end
+%% Close the serial port
 fclose(a);
+delete(a)
+clear a;
+disp('Serial Port is closed')
